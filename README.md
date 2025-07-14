@@ -191,13 +191,7 @@ Each service requires specific environment variables:
    - Captain Service
 3. Access the application through the gateway service endpoint
 
-## 📈 Future Enhancements
 
-- Service discovery and registration
-- Circuit breaker pattern implementation
-- Distributed tracing
-- Kubernetes deployment configuration
-- API rate limiting and throttling
 
 ---
 
