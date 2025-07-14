@@ -1,4 +1,4 @@
-# Microservices Architecture Project
+# Microservices Architecture 
 
 A robust microservices-based application featuring user management, ride booking, and captain services with asynchronous communication using RabbitMQ.
 
